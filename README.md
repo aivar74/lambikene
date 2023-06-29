@@ -1,3 +1,5 @@
 # lambikene
-This Program is created in Kotlin. using Andtoid Studio Flamingo. 
-The purpose is to create Flashlight. 
+This application is created in environment Kotlin. Using Android Studio Flamingo. 
+The purpose is to create Flashlight. Using mainActivity and Second frame picking updifferent functions.
+
+
